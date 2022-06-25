@@ -1,4 +1,4 @@
-# Trayecto de Formación: FullStack Web Developer :rocket:
+# Trayecto de Formación: FullStack Web Developer :steam_locomotive:
 
 :package: **Módulo 1: Entorno de trabajo y control de versiones**
 
